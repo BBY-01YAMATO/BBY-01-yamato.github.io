@@ -1,0 +1,84 @@
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="content-langage" content="ja">
+
+
+<link rel="stylesheet" href="style3.css">
+<link rel="stylesheet" href="menu.css">
+
+<title>Class2 Css</title>
+
+</head>
+
+
+<body>
+<div id="wrap">
+
+    <div id="top">
+
+    </div>
+
+<ul id="menu">
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20home.html"><h2><h2><font face="Verdana">Home</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20picture.html"><h2><font face="Verdana">Picture</font></h2></picture></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20ｍovie.html"><h2><font face="Verdana">Movie</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20music.html"><h2><font face="Verdana">Music</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20Design%20&%20Art.html"><h2><font face="Verdana">Design&Art</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20fondness.html"><h2><font face="Verdana">Fondness</font></h2></a></li>
+
+
+<div id="middle">
+
+
+<div id="main">
+    <img src="image/main.png">
+</div>
+
+<div id="right">
+    <img src="image/Music.png">
+    <h2><font face="ＭＳ 明朝">Title「origin」</font></h2>
+    <audio controls>
+        <source src="music/起源.m4a">
+    </audio>
+    
+
+    <h2><font face="ＭＳ 明朝">Title「機関始動-engine start-」</font></h2>
+    <audio controls>
+        <source src="music/機関指導.m4a">
+    </audio>
+    
+    <h2><font face="ＭＳ 明朝">Title「道」</font></h2>
+    <audio controls>
+        <source src="music/道.m4a">
+    </audio>
+
+    <h2><font face="ＭＳ 明朝">Title「Freedom」</font></h2>
+    <audio controls>
+        <source src="music/Freedom.m4a">
+    </audio>
+    
+　　<h2><font face="ＭＳ 明朝">Title「wish」</font></h2>
+    <audio controls>
+        <source src="music/wish.m4a">
+    </audio>
+    
+</div>
+
+<div id="bottom">
+    <ul id="menu">
+        <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20home.html"><h2><h2><font face="Verdana">Home</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20picture.html"><h2><font face="Verdana">Picture</font></h2></picture></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20ｍovie.html"><h2><font face="Verdana">Movie</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20music.html"><h2><font face="Verdana">Music</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20Design%20&%20Art.html"><h2><font face="Verdana">Design&Art</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20fondness.html"><h2><font face="Verdana">Fondness</font></h2></a></li>
+</ul>
+    <img src="image/home2.png">
+    </p>
+</div>
+      
+</body>
+
+</html>
