@@ -1,0 +1,56 @@
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="content-langage" content="ja">
+
+
+<link rel="stylesheet" href="style3.css">
+<link rel="stylesheet" href="menu.css">
+
+<title>Class2 Css</title>
+
+</head>
+
+
+<body>
+<div id="wrap">
+
+    <div id="top">
+
+    </div>
+
+<ul id="menu">
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20home.html"><h2><h2><font face="Verdana">Home</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20picture.html"><h2><font face="Verdana">Picture</font></h2></picture></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20ｍovie.html"><h2><font face="Verdana">Movie</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20music.html"><h2><font face="Verdana">Music</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20Design%20&%20Art.html"><h2><font face="Verdana">Design&Art</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20fondness.html"><h2><font face="Verdana">Fondness</font></h2></a></li>
+</ul>
+
+
+<div id="middle">
+    
+
+<div id="main">
+    <img src="image/main.png">
+</div>
+
+<div id="right">
+    <img src="image/Picture.png">
+    <img src="image/pictures.png">
+    <ul id="menu">
+        <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20home.html"><h2><h2><font face="Verdana">Home</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20picture.html"><h2><font face="Verdana">Picture</font></h2></picture></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20ｍovie.html"><h2><font face="Verdana">Movie</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20music.html"><h2><font face="Verdana">Music</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20Design%20&%20Art.html"><h2><font face="Verdana">Design&Art</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20fondness.html"><h2><font face="Verdana">Fondness</font></h2></a></li>
+    <img src="image/home2.png">
+    
+</div>
+      
+</body>
+
+</html>
