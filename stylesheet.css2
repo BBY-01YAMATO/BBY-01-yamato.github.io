@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+
+#menu{
+    width: 800px;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+#menu li{
+    width: 130px;
+    float: left;
+    text-align: center;
+}
+
+#menu li.menu01 a{
+    width: 130px;
+    height: 70px;
+    color:#000000;
+    font-size:  60%;
+    text-decoration:none;
+    display:block;
+}
+
+
+
+#menu li a:hover{
+ color:#b0b0b0;
+ background:url(image/shiromoya.png);
+}
+
+
+
+
