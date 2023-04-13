@@ -1,0 +1,136 @@
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="content-langage" content="ja">
+
+
+<link rel="stylesheet" href="style3.css">
+<link rel="stylesheet" href="menu.css">
+
+<title>Class2 Css</title>
+
+</head>
+
+
+<body>
+<div id="wrap">
+
+    <div id="top">
+
+    </div>
+
+<ul id="menu">
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20home.html"><h2><h2><font face="Verdana">Home</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20picture.html"><h2><font face="Verdana">Picture</font></h2></picture></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20ｍovie.html"><h2><font face="Verdana">Movie</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20music.html"><h2><font face="Verdana">Music</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20Design%20&%20Art.html"><h2><font face="Verdana">Design&Art</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20fondness.html"><h2><font face="Verdana">Fondness</font></h2></a></li>
+</ul>
+
+
+<div id="middle">
+
+
+<div id="main">
+    <img src="image/main.png">
+</div>
+
+<div id="right">
+    <img src="image/Fondness.png">
+    <img src="image/hobby１.png">
+    <p><font face="ＭＳ 明朝">最初に紹介する私の趣味は、旅と散歩です。</font></p>
+    <p><font face="ＭＳ 明朝">私の趣味の一つに写真があります。</font></p>
+    <p><font face="ＭＳ 明朝">近くの公園や観光・絶景スポット。</font></p>
+    <p><font face="ＭＳ 明朝">行きたい場所や好きな場所へ行き、ひたすら写真を撮る。</font></p>
+    <p><font face="ＭＳ 明朝">その地で出会った人々や見てきた景色の数々は、私に沢山の事を教えてくれました。</font></p>
+    <p><font face="ＭＳ 明朝">普段見ることが出来ない風景。</font></p>
+    <p><font face="ＭＳ 明朝">自然が生み出す絶景。</font></p>
+    <p><font face="ＭＳ 明朝">様々な感動を知ることが出来ました。</font></p>
+    <p><font face="ＭＳ 明朝">私は悲しい時や辛い時等、考えることに疲れてしまったときは、</font></p>
+    <p><font face="ＭＳ 明朝">必ず散歩をしに出掛けます。</font></p>
+    <p><font face="ＭＳ 明朝">そうすることで、冷静になり難題の解決策が浮かんでくることがあります。</font></p>
+    <p><font face="ＭＳ 明朝">苦しい時こそ、自然と触れ合うことで自分と向き合うことが出来ます。</font></p>
+    <img src="image/hobby２.png">
+    <p><font face="ＭＳ 明朝">「宇宙戦艦ヤマト」</font></p>
+    <p><font face="ＭＳ 明朝">皆さんはこのアニメをご存じですか？</font></p>
+    <p><font face="ＭＳ 明朝">皆さんからしたら、ごく普通のSFアニメ作品だと思います。</font></p>
+    <p><font face="ＭＳ 明朝">しかし、私にとってはとても思い入れのあるアニメ作品なのです。</font></p>
+    <p><font face="ＭＳ 明朝">homeページの冒頭で少し話させていただきましたが、</font></p>
+    <p><font face="ＭＳ 明朝">私は、中学校生活をまともに送ることが出来ませんでした。</font></p>
+    <p><font face="ＭＳ 明朝">当たり前の事を当たり前にできない自分が、</font></p>
+    <p><font face="ＭＳ 明朝">皆が出来ていることが出来ない自分が、</font></p>
+    <p><font face="ＭＳ 明朝">とても虚しく感じ、無力で誰の役にも立てない私は、</font></p>
+    <p><font face="ＭＳ 明朝">価値のない人間なのだと思っていました。</font></p>
+    <p><font face="ＭＳ 明朝">そんな私を救ってくれたのが、宇宙戦艦ヤマトなんです。</font></p>
+    <p><font face="ＭＳ 明朝">大袈裟だと笑われるかもしれません。</font></p>
+    <p><font face="ＭＳ 明朝">しかし、私はどんな困難にも負けずに立ち向かうヤマトとそのクルーの言葉に救われ、</font></p>
+    <p><font face="ＭＳ 明朝">この生きずらい世界の生き方を学びました。</font></p>
+    <p><font face="ＭＳ 明朝">こんな自分でも生きてていいのだと、失敗してもいいのだと、ヤマトは教えてくれました。</font></p>
+    <p><font face="ＭＳ 明朝">この場では語り切れません。ただ一つ言えるのは、</font></p>
+    <p><font face="ＭＳ 明朝">宇宙戦艦ヤマトは、私にとって命の恩人のような存在です。</font></p>
+    <img src="image/hobby３.png">
+    <p><font face="ＭＳ 明朝">皆さんは「戦艦」についてどのようなイメージがありますか？</font></p>
+    <p><font face="ＭＳ 明朝">戦争の道具。大砲を積んだ大きな船。無関心。</font></p>
+    <p><font face="ＭＳ 明朝">この項目には賛否があると思います。</font></p>
+    <p><font face="ＭＳ 明朝">当然ですが、私は戦争が好きなのではありません。</font></p>
+    <p><font face="ＭＳ 明朝">刀と同じです。</font></p>
+    <p><font face="ＭＳ 明朝">私は、戦艦も芸術だと思っています。</font></p>
+    <p><font face="ＭＳ 明朝">刀を美術館などで展示しているのと同じように、</font></p>
+    <p><font face="ＭＳ 明朝">その大きさや武装の形状、艦橋の構造が好きなのです。</font></p>
+    <p><font face="ＭＳ 明朝">理屈じゃありません。なんか好きなんです。</font></p>
+    <p><font face="ＭＳ 明朝">ただただかっこいいんです。</font></p>
+    <p><font face="ＭＳ 明朝">その迫力と逞しさ。</font></p>
+    <p><font face="ＭＳ 明朝">海上を航行するその姿はもう、、、言葉にできません。</font></p>
+    <img src="image/hobby４.png">
+    <p><font face="ＭＳ 明朝">私は少しでも日々のパフォーマンスの向上の為に日々トレーニングを行っています。</font></p>
+    <p><font face="ＭＳ 明朝">トレーニングをすると、体力面のみではなく精神面も鍛えることが出来ます。</font></p>
+    <p><font face="ＭＳ 明朝">苦しいです。辛いです。</font></p>
+    <p><font face="ＭＳ 明朝">でもそれを乗り越え、自分を限界まで追い込めた時、それは自身へと繋がります。</font></p>
+    <p><font face="ＭＳ 明朝">きっとここまで多くの事に挑戦して結果を残せてきたのは、</font></p>
+    <p><font face="ＭＳ 明朝">トレーニングを通して、自分を追い込む楽しさを知ることが出来たからだと思います。</font></p>
+    <p><font face="ＭＳ 明朝">大変な事ばかりですが、でもそれが楽しいんです。</font></p>
+    <p><font face="ＭＳ 明朝">トレーニングは自分を追い詰める楽しさを教えてくれます。</font></p>
+    <p><font face="ＭＳ 明朝">そして、精神面と体力面が鍛えられると、日々の生活に変化が起きます。</font></p>
+    <p><font face="ＭＳ 明朝">人との関わり方。物事の考え方。</font></p>
+    <p><font face="ＭＳ 明朝">あらゆる場面で自分の成長を感じられます。</font></p>
+    <p><font face="ＭＳ 明朝">最近は忙しくあまり出来ていないため、不調です、、、</font></p>
+    <img src="image/hobby５.png">
+    <p><font face="ＭＳ 明朝">第二次大戦時の戦艦や宇宙戦艦ヤマトへの愛が爆発した結果、</font></p>
+    <p><font face="ＭＳ 明朝">好きな艦船を模型として制作するようになりました。</font></p>
+    <p><font face="ＭＳ 明朝">写真や画面ではなく、立体模型として自分の手で細かく再現し、</font></p>
+    <p><font face="ＭＳ 明朝">鑑賞することで日々のモチベーションにつなげています。</font></p>
+    <p><font face="ＭＳ 明朝">アニメシーンや戦時中の海戦を再現してみたり、</font></p>
+    <p><font face="ＭＳ 明朝">自分の好きな色で塗装したりして表現することが出来ます。</font></p>
+    <p><font face="ＭＳ 明朝">プラモデルは自由なんです。</font></p>
+    <p><font face="ＭＳ 明朝">それが完成したら自分の部屋の好きな場所に飾り、</font></p>
+    <p><font face="ＭＳ 明朝">毎日それを見てやる気を出します。</font></p>
+    <img src="image/hobby６.png">
+    <p><font face="ＭＳ 明朝">私は軽音楽部に所属し、ドラム・キーボード・ギターで演奏をしています。</font></p>
+    <p><font face="ＭＳ 明朝">ドラムを始めたのは小学六年の時。</font></p>
+    <p><font face="ＭＳ 明朝">当時はあまり上手く叩く事が出来ず、周りに馬鹿にされていました。</font></p>
+    <p><font face="ＭＳ 明朝">それがとても悔しく、ひたすら家の電子ドラムで練習した結果趣味になりました。</font></p>
+    <p><font face="ＭＳ 明朝">キーボードを始めたのは中学一年の時。</font></p>
+    <p><font face="ＭＳ 明朝">ドラムを叩き続けていると、ふとメロディを弾きたくなりました。</font></p>
+    <p><font face="ＭＳ 明朝">そこから家にある電子ピアノを使って好きな曲を耳コピして弾いた結果趣味になりました。</font></p>
+    <p><font face="ＭＳ 明朝">ギターを始めたのは高校一年の時。</font></p>
+    <p><font face="ＭＳ 明朝">新歓ライブで聴いた先輩の弾き語りに憧れて始めたアコギがきっかけです。</font></p>
+    <p><font face="ＭＳ 明朝">ネットでコードを調べ家で弾き語りの練習をしていました。</font></p>
+    <p><font face="ＭＳ 明朝">それらは今に繋がり、軽音楽部でバンドを組み、演奏を披露しています。</font></p>
+    　　　
+<div id="bottom">
+    <ul id="menu">
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20home.html"><h2><h2><font face="Verdana">Home</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20picture.html"><h2><font face="Verdana">Picture</font></h2></picture></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20ｍovie.html"><h2><font face="Verdana">Movie</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20music.html"><h2><font face="Verdana">Music</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20Design%20&%20Art.html"><h2><font face="Verdana">Design&Art</font></h2></a></li>
+    <li class="menu01"><a href="file:///Volumes/KIOXIA/後期授業/IM基礎演習B/最終課題/index%20-%20fondness.html"><h2><font face="Verdana">Fondness</font></h2></a></li>
+</ul>
+    <img src="image/home2.png">
+</div>
+      
+</body>
+
+</html>
