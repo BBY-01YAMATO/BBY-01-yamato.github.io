@@ -1,0 +1,39 @@
+#wrap{
+    width:800px;
+    height:1400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body{
+    margin: 10px;
+}
+
+#top{
+    width:800px;
+    height:200px;
+    background:url(image/takumi.png);
+}
+
+#middle{
+    width:800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#main{
+    width:800px;
+    height:1000px;
+    float: left;
+}
+
+#right{
+    width: 800px;
+    margin: 10px;
+}
+
+#bottom{
+    width:800px;
+    color: rgb(0, 0, 0);
+    clear: both;
+}
